@@ -1,0 +1,53 @@
+//RESET
+html,
+body,
+div,
+h1,
+p {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-family: "Rubik", sans-serif;
+  vertical-align: baseline;
+} 
+
+// APP
+.container {
+  width: 930px;   
+  margin: 0 auto;
+  .content {
+    background-color: #FFA967;
+    padding: 50px 80px;
+    h1 {
+      font-size: 16px;
+      font-weight: semi-bold;
+      color: #124c7c;
+      text-transform: uppercase;
+      padding-bottom: 45px;
+    }
+    .row {
+      display: flex;
+      justify-content: flex-start;
+      align-items: flex-start;
+      flex-wrap: wrap;
+
+      article {
+        flex-basis: 33.33%;
+        display: flex;
+        margin-bottom: 40px;
+        background-color:cyan;
+        img {
+          padding-right: 15px;
+          object-fit: contain;
+        }
+        p {
+          margin-right: 40px;
+          font-size: 14px;
+          font-weight: 400;
+          color: #124C7C;
+        }
+      }
+    }
+  }
+}

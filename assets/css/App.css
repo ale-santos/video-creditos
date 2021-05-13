@@ -1,0 +1,53 @@
+html,
+body,
+div,
+h1,
+p {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-family: "Rubik", sans-serif;
+  vertical-align: baseline;
+}
+
+.container {
+  width: 930px;
+  margin: 0 auto;
+}
+.container .content {
+  background-color: #FFA967;
+  padding: 50px 20px;
+}
+.container .content h1 {
+  font-size: 16px;
+  font-weight: semi-bold;
+  color: #124c7c;
+  text-transform: uppercase;
+  padding-bottom: 45px;
+}
+.container .content .row {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.container .content .row article {
+  flex-basis: 33.33%;
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 40px;
+ 
+}
+.container .content .row article img {
+  padding-right: 15px;
+  object-fit: contain;
+}
+.container .content .row article p {
+  margin-right: 30px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #124C7C;
+}
+
+/*# sourceMappingURL=App.css.map */

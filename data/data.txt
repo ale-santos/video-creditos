@@ -1,0 +1,58 @@
+const data = [
+  {
+    "image": "001-foto.jpg",
+    "text": "<b>IMAGEM:</b> SERVIÇO DE LIMPEZA URBANA/PREFEITURA<br> DE BELO HORIZONTE,<br> MINAS<br> GERAIS",
+  },
+  {
+    "image": "002-foto.jpg",
+    "text": "IMAGEM: <i>DIVULGAÇÃO/SERVIÇO</i> DE LIMPEZA URBANA/AGÊNCIA BRASÍLIA",
+  },
+  {
+    "image": "001-foto.jpg",
+    "text": "IMAGEM:PREFEITURA DE BELO HORIZONTE, MINAS GERAIS",
+  },
+  {
+    "image": "002-foto.jpg",
+    "text": "IMAGEM: <i>DIVULGAÇÃO/SERVIÇO</i> DE LIMPEZA URBANA",
+  },
+  {
+    "image": "001-foto.jpg",
+    "text": "IMAGEM:PREFEITURA DE BELO HORIZONTE, MINAS GERAIS",
+  },
+  {
+    "image": "001-foto.jpg",
+    "text": "<b>IMAGEM:</b> SERVIÇO DE LIMPEZA URBANA/PREFEITURA<br> DE BELO HORIZONTE,<br> MINAS<br> GERAIS",
+  },
+  {
+    "image": "002-foto.jpg",
+    "text": "IMAGEM: <i>DIVULGAÇÃO/SERVIÇO</i> DE LIMPEZA URBANA/AGÊNCIA BRASÍLIA",
+  },
+  {
+    "image": "001-foto.jpg",
+    "text": "IMAGEM: PREFEITURA DE BELO HORIZONTE, MINAS GERAIS",
+  },
+  {
+    "image": "001-foto.jpg",
+    "text": "<b>IMAGEM:</b> SERVIÇO DE LIMPEZA URBANA/PREFEITURA<br> DE BELO HORIZONTE,<br> MINAS<br> GERAIS",
+  },
+   {
+    "image": "001-foto.jpg",
+    "text": "<b>IMAGEM:</b> SERVIÇO DE LIMPEZA URBANA/PREFEITURA<br> DE BELO HORIZONTE,<br> MINAS<br> GERAIS",
+  },
+   {
+    "image": "001-foto.jpg",
+    "text": "<b>IMAGEM:</b> SERVIÇO DE LIMPEZA URBANA/PREFEITURA<br> DE BELO HORIZONTE,<br> MINAS<br> GERAIS",
+  },
+   {
+    "image": "001-foto.jpg",
+    "text": "<b>IMAGEM:</b> SERVIÇO DE LIMPEZA URBANA/PREFEITURA<br> DE BELO HORIZONTE,<br> MINAS<br> GERAIS",
+  },
+   {
+    "image": "001-foto.jpg",
+    "text": "<b>IMAGEM:</b> SERVIÇO DE LIMPEZA URBANA/PREFEITURA<br> DE BELO HORIZONTE,<br> MINAS<br> GERAIS",
+  },
+   {
+    "image": "001-foto.jpg",
+    "text": "<b>IMAGEM:</b> SERVIÇO DE LIMPEZA URBANA/PREFEITURA<br> DE BELO HORIZONTE,<br> MINAS<br> GERAIS",
+  },
+]
